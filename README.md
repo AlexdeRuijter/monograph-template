@@ -7,7 +7,7 @@ I adapted it slightly so it is compilable with the tools already in my workflow.
 -  `bash`, the default shell on Linux
 -  `zathura`, a lightweight PDF viewer with Vim-like keybinds
 -  `texfot`, a small program to declutter the `LuaLaTex` compile-output
--  `lualatex`, the LaTeX compiler I generally use
+-  `pfdlatex`, the LaTeX compiler
 -  `inotifywait`, keeping track of the changes to allow real-time compilation
 
 If these components are installed, compilation should be easy.
